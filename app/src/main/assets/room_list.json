@@ -1,0 +1,94 @@
+{
+  "version":"3003202005001",
+  "room_list" : [
+    {
+      "ordinal":1,
+      "room_title":"ห้อง TX3 Mini",
+      "device_id":"7e49d38c03225ea4"
+    },
+    {
+      "ordinal":3,
+      "room_title":"ห้อง J7",
+      "device_id":"50321a567585340f"
+    },
+    {
+      "ordinal":2,
+      "room_title":"ห้อง Note4",
+      "device_id":"69d2a427a05289a3"
+    },
+    {
+      "ordinal":4,
+      "room_title":"ห้อง Nord",
+      "device_id":"d251f46ff2856a01"
+    },
+    {
+      "ordinal":5,
+      "room_title":"Maintenance Room"
+    }
+  ,
+    {
+      "ordinal":6,
+      "room_title":"106"
+    }
+  ,
+    {
+      "ordinal":7,
+      "room_title":"107"
+    }
+  ,
+    {
+      "ordinal":8,
+      "room_title":"108"
+    }
+  ,
+    {
+      "ordinal":9,
+      "room_title":"109"
+    }
+  ,
+    {
+      "ordinal":10,
+      "room_title":"110"
+    }
+  ,
+    {
+      "ordinal":11,
+      "room_title":"111"
+    }
+  ,
+    {
+      "ordinal":12,
+      "room_title":"112"
+    }
+  ,
+    {
+      "ordinal":13,
+      "room_title":"113"
+    }
+  ,
+    {
+      "ordinal":14,
+      "room_title":"114"
+    }
+  ,
+    {
+      "ordinal":15,
+      "room_title":"115"
+    }
+  ,
+    {
+      "ordinal":16,
+      "room_title":"116"
+    }
+  ,
+    {
+      "ordinal":18,
+      "room_title":"118"
+    }
+  ,
+    {
+      "ordinal":17,
+      "room_title":"117"
+    }
+  ]
+}

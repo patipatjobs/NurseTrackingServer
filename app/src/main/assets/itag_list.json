@@ -1,0 +1,20 @@
+{
+  "version":"3003202005001",
+  "itag_list" : [
+    {
+      "mac_address":"FF:FF:B1:25:6D:80",
+      "brand_name":"iTAG",
+      "title": "Patipat Chanrungruang"
+    },
+    {
+      "mac_address":"F6:74:96:54:8E:B6",
+      "brand_name":"vívosmart 3",
+      "title": "Pat Garmin"
+    },
+    {
+      "mac_address":"FF:FF:CA:1B:CA:80",
+      "brand_name":"iTAG",
+      "title": "Pat iTAG"
+    }
+  ]
+}
